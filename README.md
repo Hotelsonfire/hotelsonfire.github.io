@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+title: Welcome to HotelsOnFire's Homepage!
+description: Feel free to check in from time to time to see what I'm up to!
 
 You can use the [editor on GitHub](https://github.com/Hotelsonfire/hotelsonfire.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
